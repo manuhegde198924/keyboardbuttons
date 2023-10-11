@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color:orange;
+}
+
+#key-display {
+    font-size: 55px;
+    margin-top: 20px;
+    border-color: brown;
+    border-style: dashed;
+    border-width:5px;
+    width: 400px;
+    background-color:grey;
+    
+}
+
+#keycode-display {
+    font-size: 44px;
+    color: navy
+    margin-top: 10px;
+    border-color:blue;
+    border-style:dashed;
+    background-color:green;
+}
+
+#key-history {
+    font-size: 45px;
+    color:blueviolet;
+    margin-top: 10px;
+}
+h1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 60px;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
